@@ -1,2 +1,2 @@
-# gloal
+# global
 global-repo
